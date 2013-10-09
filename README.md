@@ -6,3 +6,9 @@ of Android.
 
 The purpose is to show how to use RevMob SDK with Fragments. It's a simple app that just show a banner when the app is
 opened.
+
+
+Documentation
+===============================
+
+http://sdk.revmobmobileadnetwork.com/android.html
